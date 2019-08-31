@@ -1,0 +1,11 @@
+body, h5, span, h2, li, p, td, h6 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Play', sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+  
+h3 {
+font-family: 'Timmana', sans-serif !important;
+}
